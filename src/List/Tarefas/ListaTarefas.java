@@ -1,4 +1,4 @@
-package Tarefas;
+package List.Tarefas;
 
 import java.util.ArrayList;
 import java.util.List;
